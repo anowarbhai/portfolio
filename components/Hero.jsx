@@ -30,7 +30,7 @@ export default function Home() {
         {/** Image */}
         <div className="hidden xl:flex w-[55vw] h-[800px] absolute top-0 right-0 bg-accent">
           <div className="absolute w-[558px] h-[642px] bottom-0 z-40 left-[6.5vw]">
-            <Image src="/assets/hero/dev.png" alt="" fill quality="100%" property="true" className="object-contain" />
+            <Image src="/assets/hero/anowar.png" alt="" fill quality="100%" property="true" className="object-contain" />
           </div>
           {/** arrow */}
           <div className="hidden xl:flex absolute top-48 left-[4vw]" data-scroll data-scroll-speed="0.05">
