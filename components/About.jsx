@@ -14,7 +14,7 @@ export default function About() {
                 <div className="w-[160px] h-[160px] bg-accent absolute -left-5 -top-5 -z-10"></div>
                 {/* image */}
                 <div className="rounded-tl-[8px] rounded-tr-[120px] w-full bg-[#e5f8f6] min-h-[480px] flex items-end justify-center">
-                  <Image src="/assets/about/img.png" width="350" height="478" quality={100} priority alt="" />
+                  <Image src="/assets/about/anowar2.png" width="350" height="478" quality={100} priority alt="" />
                 </div>
                 <div className="absolute top-2/4 -right-[65px] flex items-center justify-center">
                   <motion.div
